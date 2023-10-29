@@ -78,3 +78,7 @@ body {
   padding: 20px;
   cursor: pointer;
 }
+.navbar-brand  {
+  font-family: 'Dancing Script', cursive;
+
+}
